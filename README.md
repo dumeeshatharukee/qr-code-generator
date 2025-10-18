@@ -1,6 +1,7 @@
 # 🔳 QR Code Generator App
 
 A simple and customizable QR Code Generator built using **ReactJS**. This app allows users to input custom text, choose QR code size and background color, and generate a scannable QR code instantly.
+This application enables users to instantly create scannable QR codes by entering custom text or URLs. Users can adjust QR code size, background color, and foreground color, and download the generated QR code for easy sharing or printing.
 
 ## 📌 Features
 
