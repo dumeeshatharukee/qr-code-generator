@@ -24,6 +24,9 @@ This application enables users to instantly create scannable QR codes by enterin
 > ![Image](https://github.com/user-attachments/assets/a4aa1c6b-ad07-4fa2-84dc-a04c15dfc6f5)
 
 
+
+This project demonstrates the power of React in building interactive, user-friendly tools and highlights modern web development practices such as component-based architecture, state management with hooks, and API integration for QR code generation.
+
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally:
